@@ -1,0 +1,4 @@
+Developer Profile
+Learning: C# and .NET
+GitHub: Beginner
+Goal: Become a .NET Full Stack Developer
