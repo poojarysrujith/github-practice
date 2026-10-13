@@ -16,3 +16,4 @@ This is my beginner Git and GitHub practice project.
 
 ## Goal
 I am learning GitHub workflows to prepare for .NET full-stack development and freelance projects.
+Learning GitHub for real-world development.
