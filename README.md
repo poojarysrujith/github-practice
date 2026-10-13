@@ -19,3 +19,5 @@ Use VS Code Source Control to stage your changes, enter a commit message, commit
 ### 5. Submit your changes
 
 Open a pull request on GitHub to propose merging your branch into `main`.
+
+Learning to review changes before committing.
