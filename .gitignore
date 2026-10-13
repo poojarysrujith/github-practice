@@ -1,0 +1,10 @@
+# Temporary files
+*.tmp
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
